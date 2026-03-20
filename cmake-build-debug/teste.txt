@@ -1,0 +1,6 @@
+bernardo|18|atacante|flamengo
+PEDRO|18|lateral|flamengo
+pedro|19|lateral |flamengo
+deco|10|goleiro|vasco
+malu|18|lateral|flamengo
+pedro|18|ld|flamengo
